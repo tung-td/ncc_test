@@ -91,9 +91,10 @@
     margin: 0 50px;
 }
 
-.description p img {
+.description img {
     height: 128px;
     margin-right: 16px;
+    float: left;
 }
 
 .content_grid .grid_item {
@@ -116,10 +117,6 @@
     letter-spacing: 0em;
     text-align: left;
     margin-top: 18px;
-}
-
-.description > p{
-    display: flex;
 }
 
 
@@ -146,7 +143,7 @@
         padding: 30px 100px;
     }
 
-    .description p img {
+    .description img {
         height: 100px;
     }
     
@@ -183,7 +180,7 @@
         padding: 5px;
     }
 
-    .description p img {
+    .description img {
         height: 90px;
     }
 
