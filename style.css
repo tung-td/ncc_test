@@ -87,8 +87,12 @@
     margin-top: 40px;
 }
 
-.mr5{
+.mr50{
     margin: 0 50px;
+}
+
+.mr6 {
+    margin-top: 6px;
 }
 
 .description img {
